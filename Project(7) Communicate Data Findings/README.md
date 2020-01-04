@@ -10,4 +10,4 @@ I will conduct an exploratory data analysis on a dataset of your choosing. I wil
 I will take my main findings from exploration stage and convey them to others through an explanatory analysis. To this end, I will create a slide deck that leverages polished, explanatory visualizations to communicate my results.
 
 
-[Course Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/nd002-syllabus_2018-June_v9.pdf)
+[Ford GoBike System Data](https://www.lyft.com/bikes/bay-wheels/system-data)
