@@ -9,4 +9,5 @@ In this project, I'll analyze data that collected from 100k medical appointments
 - ‘Scholarship’ indicates whether or not the patient is enrolled in Brasilian welfare program Bolsa Família.
 - ‘No-show’ it says ‘No’ if the patient showed up to their appointment, and ‘Yes’ if they did not show up.
 
+
 The original dataset has been sourced from Kaggle Dataset: Medical Appoiment No Shows on 29th October 2018
