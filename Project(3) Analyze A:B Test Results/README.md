@@ -1,6 +1,12 @@
-# Data-Analysis-Course-Udacity
+# A/B Test Results
 
-Contains projects done by me as part of the nanodegree.
+A/B tests are very commonly performed by data analysts and data scientists. 
+
+For this project, I will be working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. My goal is to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 
-[Course Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/nd002-syllabus_2018-June_v9.pdf)
+## Statistical Analysis
+- Bootstrapping sampling distributions and p-value calculations
+- Z-core tests
+- Logistic regression
+- Multiple linear regression modelling to assess for interactions of independent variables
