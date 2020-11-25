@@ -1,6 +1,6 @@
 # Explore-Weather-Trends
 
-In this project, I will analyze local and global temperature data and compare the temperature trends where you live to overall global temperature trends.
+In this project, I will analyze local and global temperature data and compare the temperature trends where I live to overall global temperature trends.
 
 My goal is creating a visualization and prepare a write up describing the similarities and differences between global temperature trends and temperature trends in my city. To do this, I follow the steps below:
 
